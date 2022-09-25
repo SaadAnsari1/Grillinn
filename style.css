@@ -2,6 +2,10 @@
 /* font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif; */
 
+/* * {
+    border: 1px solid red;
+} */
+
 body {
     font-family: 'Poppins', sans-serif;
     text-rendering: optimizeLegibility !important;
@@ -404,6 +408,10 @@ ul {
     }
     .menu-toggle {
         right: 15px;
+    }
+    /* edit it */
+    .site-header {
+        height: 70px;
     }
     .site-header .container .row .col-lg-2 {
         left: 15px;
