@@ -1,2 +1,7 @@
-# Grillinn
+# GRILL INN ORAI | It's Delicious | Lahariya Pura, Orai, Uttar Pradesh 285001
 Grillinn live project
+
+#### Fast food, best burgers, best pizzas, best fried chicken, pocket friendly, low investment, high returns, QSR, Quick service restaurant chain, best food franchise, franchise india, franchise, high profit, wide menu, best fast food chain in india, top franchise, top fast food brand, award winning fast food brand, delicious, pan india, 150 outlets, top fast food brand, Wraps, … Continue reading Home , fast food, best burgers, best pizzas, best fried chicken, pocket friendly, low investment, high returns, QSR, Quick service restaurant chain, best food franchise, franchise india, franchise, high profit, wide menu, best fast food chain in india, top franchise, top fast food brand, award winning fast food brand, delicious, pan india, 150 outlets, top fast food brand, Wraps, Chicken Bucket, Shakes, Grill Inn, grillinn, grilled chicken, Fresh , Grill Inn Orai, grillinnorai, grillInn Orai, Grillinn orai, saad ansari , Grillinn orai saad ansari, Grillinn near me, restaurant in orai, 
+
+
+#### India's very own Quick Service Restaurant chain, Fastest growing fast food chain in India, Orai very restaurant,Fastest growing fast food restaurant orai, restaurant near me, grillInn,Grill-inn,GRILL-INN,Grillinn Orai, best restaurant in orai,grillInn in orai best restaurant in orai, orai , jalaun, orai jalaun, up, near me , restaurant in my area, grillinn in my area 

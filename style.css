@@ -270,6 +270,9 @@ ul {
     .for-mob {
         display: block !important;
     }
+    .site-header {
+        height: 75px !important;
+    }
     .site-header .container {
         max-width: 100%;
         padding: 0;
@@ -438,6 +441,7 @@ ul {
         top: 0;
         left: 0;
     }
+
 }
 
 @media (max-width: 991px) {
